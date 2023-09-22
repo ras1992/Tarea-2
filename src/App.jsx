@@ -13,15 +13,14 @@ function App() {
 
   return (
     <>
-
-      {/* <CargaDatos></CargaDatos> */}
-      {/* <MultiplePromesas></MultiplePromesas> */}
-      {/* <Iterar></Iterar> */}
-      {/* <TiempoEspera></TiempoEspera> */}
-      {/* <CadenaPromesas></CadenaPromesas> */}
-      {/* <ConcurrenciaLimitada></ConcurrenciaLimitada> */}
-      {/* <PromesasConErrores></PromesasConErrores> */}
-      {/* <RetardoAleatorio></RetardoAleatorio> */}
+      <CargaDatos></CargaDatos>
+      <MultiplePromesas></MultiplePromesas>
+      <Iterar></Iterar>
+      <TiempoEspera></TiempoEspera>
+      <CadenaPromesas></CadenaPromesas>
+      <ConcurrenciaLimitada></ConcurrenciaLimitada>
+      <PromesasConErrores></PromesasConErrores>
+      <RetardoAleatorio></RetardoAleatorio>
       <ObtenerUsuario></ObtenerUsuario>
     </>
   )
